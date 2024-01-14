@@ -12,15 +12,15 @@ APIプレビューでは実際のAPIレスポンスを確認でき、あなた�
 
 👇まずはここをクリックします。
 
-![call-lambda-from-GithubAction](https://github.com/mugi-tech/mugi-tec-content/blob/main/content/images/call-lambda-from-GithubAction.png?raw=true)
+![blog-template](https://github.com/mugi-tech/blog-contents/blob/main/mugi-notebook-contents/sample/image/blog-template.png?raw=true)
 
 APIプレビュー画面が開いたら、**「取得」**ボタンでリクエストを試してみましょう。
 
-![call-lambda-from-GithubAction](https://github.com/mugi-tech/mugi-tec-content/blob/main/content/images/call-lambda-from-GithubAction.png?raw=true)
+![blog-template](https://github.com/mugi-tech/blog-contents/blob/main/mugi-notebook-contents/sample/image/blog-template.png?raw=true)
 
 この記事の内容がAPIで取得できていることがわかります。
 
-![call-lambda-from-GithubAction](https://github.com/mugi-tech/mugi-tec-content/blob/main/content/images/call-lambda-from-GithubAction.png?raw=true)
+![blog-template](https://github.com/mugi-tech/blog-contents/blob/main/mugi-notebook-contents/sample/image/blog-template.png?raw=true)
 
 ## 次にやること🏃
 
