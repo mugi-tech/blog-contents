@@ -1,6 +1,6 @@
 ---
 id: "nextjs-ssg-ssr-isr"
-title: " Next.jsのSSG/SSR/ISRを理解する"
+title: " Next.jsのSSG/SSR/ISRをMicroCMSのブログテンプレートで理解する"
 description: "MicroCMSのブログテンプレートを使用して、Next.jsのSSG/SSR/ISRの挙動を理解する。"
 emoji: "💡"
 category: "Tips"
@@ -266,6 +266,6 @@ ISRの為、やはりすぐには追加されないですね。
 ISRで動いている事が確認できました！
 
 ## まとめ
-今回は、SSG/SSR/ISRの動きを実際のデータを用いて、確認してみました。
+今回は、SSG/SSR/ISRの動きをMicroCMSにブログテンプレートを用いて、確認してみました。
 ブログサイトのような静的サイトならば、SSRではなくSSG/ISRで十分そうですね。
 今度、ブログを作る際はSSGかISRで作ってみようと思います！
